@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FlappyBird
 //
-//  Created by 齋藤　綾乃 on 2020/08/14.
+//  Created by ayano-s on 2020/08/14.
 //  Copyright © 2020 ayano-s. All rights reserved.
 //
 
